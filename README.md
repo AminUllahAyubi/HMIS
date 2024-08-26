@@ -42,6 +42,7 @@ Prerequisites
     Xampp-control
     Php
 steps:
+
     1- Download the .rar file
     2- Extract it
     3- past the file in hdocs repo of xampp folder.
