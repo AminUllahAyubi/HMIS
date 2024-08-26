@@ -50,9 +50,12 @@ steps:
     5- open HMIS
 Usage
 
-    Register/Login:
-        New users can register or log in with existing credentials.
-
+    Register ADMIN/Login:
+        Admin can register or log in with existing credentials.
+    
+    Register DOCTOR/Login:
+        Doctor can register or log in and has it's own profile.
+    
     Manage Patients:
         Add, update, or remove patient records.
         View patient history and medical records.
